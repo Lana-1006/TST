@@ -8,7 +8,7 @@ def test_recommend_salad_when_weather_is_warm():
 
     service = MealRecommendationService(weather_service)
 
-    assert service.recommend_meal() == "Salat"
+    assert service.recommend_meal() == "Salat" 
 
 
 def test_recommend_soup_when_weather_is_cold():
