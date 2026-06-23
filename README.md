@@ -1,4 +1,4 @@
-# TST-E1 – SmartMeal
+# TST-SmartMeal
 
 ## A1 – Unit-Tests
 
@@ -7,7 +7,7 @@ Ich habe zwei normale Fälle getestet. Zusätzlich habe ich überprüft, ob bei 
 
 ---
 
-## A2 – Test Driven Development (TDD)
+## A2 – TDD
 
 
 ---
