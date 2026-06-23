@@ -12,8 +12,10 @@ Ich habe zwei normale Fälle getestet. Zusätzlich habe ich überprüft, ob bei 
 Prompt: 
 "Gib mir ein einfaches Beispiel für einen ShoppingCart mit TDD."
 
+
 <img width="1594" height="712" alt="image" src="https://github.com/user-attachments/assets/23dba334-61d6-4324-ae7d-b4cbb8645790" />
 <img width="1502" height="801" alt="image" src="https://github.com/user-attachments/assets/1116ebb5-9454-4c81-9a12-6741eb4eb870" />
+
 
 Kritik: 
 Die KI hat mehr Funktionen vorgeschlagen als ich letztendlich umgesetzt habe. Außerdem hat die KI andere Testnamen verwendet. Die Tests waren zwar ähnlich aufgebaut, ich habe die Namen und die Struktur jedoch an meine Bedürfnisse angepasst.
